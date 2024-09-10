@@ -1,0 +1,101 @@
+﻿RANK,COMPANY,CEO,HEADQUARTERS,Country,EMPLOYEES,WHAT IT DOES,FUNDING,VALUATION
+1,OpenAI,Sam Altman,"San Francisco, California, United States",United States,"1,100",AI research and products,$11.3 B,$86 B
+2,Databricks,Ali Ghodsi,"San Francisco, California, United States",United States,"6,000",Data and AI platform,$4 B,$43 B
+3,Stripe,Patrick Collison,"Dublin, Ireland",Ireland,"7,000",Financial Infrastructure,$2.2 B,$65 B
+4,Canva,Melanie Perkins,"Sydney, Australia",Australia,"5,000",Visual communication platform,$560 M,$26 B
+5,Anthropic,Dario Amodei,"San Francisco, California, United States",United States,630,AI research and products,$8.9 B,$18.1 B
+6,ServiceTitan,Ara Mahdessian,"Glendale, California, United States",United States,"2,802",Trade industry software,$1.5 B,$7.4 B
+7,Scale AI,Alexandr Wang,"San Francisco, California, United States",United States,900,Data infrastructure,$1.6 B,$13.8 B
+8,Deel,Alex Bouaziz,"San Francisco, California, United States",United States,"3,900",Global HR,$675 M,$12 B
+9,Wiz,Assaf Rappaport,"New York, New York, United States",United States,"1,200",Cloud security,$1.9 B,$12 B
+10,Navan,Ariel Cohen,"Palo Alto, California, United States",United States,"3,000",Travel and expense management,$1.6 B,$9.2 B
+11,Miro,Andrey Khusid,"Amsterdam, Netherlands",Netherlands,"1,864",Digital collaboration,$475 M,$17.5 B
+12,Figma,Dylan Field,"San Francisco, California, United States",United States,"1,400",Product design and development,$333 M,$12.5 B
+13,Celonis,"Alexander Rinke, Bastian Nominacher","Munich, Germany",Germany,"3,000",Process automation,$2 M,$13 B
+14,Grammarly,Rahul Roy-Chowdhury,"San Francisco, California, United States",United States,"1,050",Communication assistance,$400 M,$13 B
+15,Netskope,Sanjay Beri,"Santa Clara, California, United States",United States,"3,000",Network security,$1.4 B,$7.5 B
+16,Talkdesk,Tiago Paiva,"San Francisco, California, United States",United States,"1,700",Cloud contact center,$600 M,$10 B
+17,Gusto,Joshua Reeves,"San Francisco, California, United States",United States,"2,800","Payroll, benefits and HR",$746 M,$9.5 B
+18,Arctic Wolf,Nick Schneider,"Eden Prairie, Minnesota, United States",United States,"2,600",Security operations,$899 M,$4.3 B
+19,Notion,Ivan Zhao,"San Francisco, California, United States",United States,650,Work collaboration,$330 M,$10 B
+20,Tanium,Dan Streetman,"Kirkland, Washington, United States",United States,"1,900",Endpoint management,$1.1 B,$9 B
+21,OneTrust,Kabir Barday,"Atlanta, Georgia, United States",United States,"2,250",Compliance software,$1.1 B,$4.5 B
+22,Rippling,Parker Conrad,"San Francisco, California, United States",United States,"3,057",Workforce management,$905 M,$13.5 B
+23,Grafana Labs,Raj Dutt,"Stockholm, Sweden",Sweden,"1,300",Database observability,$570 M,$6 B
+24,Checkr,Daniel Yanisse,"San Francisco, California, United States",United States,800,Background checks,$679 M,$5 B
+25, Attentive      , Amit Jhawar                                               ," New York , New York, United States                           ",United States,"1,074", SMS marketing                  , $866 M  , $7 B      
+26, Carta          , Henry Ward                                                ," San Francisco, California, United States                     ",United States,"1,800", Equity management              , $1.2 B  , $7.4 B    
+27, Snyk           , Peter McKay                                               ," Boston, Massachusetts, United States                         ",United States,"1,080", Developer security             , $1 B    , $7.4 B    
+28, Cohesity       , Sanjay Poonen                                             ," San Jose, California, United States                          ",United States,"2,250", Data security and management   , $825 M  , $3.5 B    
+29, CoreWeave      , Michael Intrator                                          ," Roseland, New Jersey, United States                          ",United States,650, Cloud-based compute            , $9 B    , $19 B     
+30, Airtable       , Howie Liu                                                 ," San Francisco, California, United States                     ",United States,600, App development platform       , $1.4 B  , $11.7 B   
+31, Zapier         , Wade Foster                                               ," San Francisco, California, United States                     ",United States,736, Workflow automation            , $1.3 B  , $5 B      
+32, Postman        , Abhinav Asthana                                           ," San Francisco, California, United States                     ",United States,723, API management                 , $433 M  , $5.6 B    
+33, Plaid          , Zach Perret                                               ," San Francisco, California, United States                     ",United States,"1,000", Financial data connectivity    , $735 M  , $13.4 B   
+34, Dataiku        , Florian Douetteau                                         ," New York , New York, United States                           ",United States,"1,000", Data science platform          , $600 M  , $3.7 B    
+35, Zoho           , Sridhar Vembu                                             ," Austin, Texas, United States                                 ",United States,"12,000", Office software suite          ,         ,           
+36, Yardi          , Anant Yardi                                               ," Santa Barbara, California, United States                     ",United States,"9,329", Real estate software           ,         ,           
+37, Ramp           , Eric Glyman                                               ," New York, New York, United States                            ",United States,850, Financial automation           , $1.8 B  , $7.7 B    
+38, Dialpad        , Craig Walker                                              ," San Ramon, California, United States                         ",United States,"1,218", Customer intelligence          , $418 M  , $2.2 B    
+39, Icertis        , Samir Bodas                                               ," Bellevue, Washington, United States                          ",United States,"2,224", Contract intelligence          , $482 M  , $3 B      
+40, AppsFlyer      , Oren Kaniel                                               ," San Francisco, California, United States                     ",United States,"1,500", Mobile marketing analytics     , $300 M  , $2 B      
+41, Guild          , Bijal Shah                                                ," Denver, Colorado, United States                              ",United States,900, Education benefits platform    , $643 M  , $4.4 B    
+42, Brex           , Pedro Franceschi                                          ," San Francisco, California, United States                     ",United States,"1,050", AI spend platform              , $1.2 B  , $12.3 B   
+43, 1Password      , Jeff Shiner                                               ," Toronto, Ontario, Canada                                     ",Canada,"1,200", Identity security              , $920 M  , $6.8 B    
+44, Fivetran       , George Fraser                                             ," Oakland, California, United States                           ",United States,"1,207", Automated data movement        , $730 M  , $5.6 B    
+45, Automation Anywhere , Mihir Shukla                                         ," San Jose, California, United States                          ",United States,"1,500", Robotic process automation     , $820 M  , $7.3 B    
+46, Abnormal Security , Evan Reiser                                            ," San Francisco, California, United States                     ",United States,750, Email security                 , $546 M  , $5.1 B    
+47, VAST Data      , Renen Hallak                                              ," New York, New York, United States                            ",United States,825, AI data infrastructure         , $381 M  , $9.1 B    
+48, Motive         , Shoaib Makani                                             ," San Francisco, California, United States                     ",United States,"3,300", Fleet management               , $728 M  , $2.9 B    
+49, Flock Safety   , Garrett Langley                                           ," Atlanta, Georgia, United States                              ",United States,835, Crime-solving technology       , $683 M  , $4.4 B    
+50, Seismic        , Doug Winter                                               ," San Diego, California, United States                         ",United States,"1,347", Sales enablement               , $447 M  , $3 B      
+51, Benchling    , Sajith Wickramasekara," San Francisco, California, United States                    ",United States,800, Biotech R&D platform                     , $425 M  , $6.1 B    
+52, Collibra     , Felix Van de Maele  ," Brussels, Belgium",Belgium,"1,005", Data intelligence                        , $597 M  , $5.3 B    
+53, Webflow      , Linda Tong          ," San Francisco, California, United States                    ",United States,670, Visual development platform              , $335 M  , $4 B      
+54, Airwallex    , Jack Zhang          ," Singapore, Singapore                                        ",Singapore,"1,500", Financial operations platform            , $900 M  , $5.6 B    
+55, Checkout.com , Guillaume Pousaz    ," London, United Kingdom                                      ",United Kingdom,"2,000", Global payments provider                 , $1.8 B  , $40 B     
+56, Clio         , Jack Newton         ," Burnaby, British Columbia, Canada                           ",Canada,"1,100", Legal practice management                , $414 M  , $3 B      
+57, Workato      , Vijay Tella         ," Mountain View, California, United States                    ",United States,850, Enterprise automation                    , $421 M  , $5.7 B    
+58, HiBob        , Ronni Zehavi        ," London, United Kingdom                                      ",United Kingdom,"1,010", HR software                              , $574 M  , $2.7 B    
+59, Gong         , Amit Bendov         ," San Francisco, California, United States                    ",United States,"1,100", Revenue intelligence                     , $584 M  , $7.3 B    
+60, Komodo Health, Arif Nathoo         ," San Francisco, California, United States                    ",United States,675, Health care data analytics               , $451 M  , $3.3 B    
+61, Calendly     , Tope Awotona        ," Atlanta, Georgia, United States                             ",United States,653, Scheduling automation                    , $350 M  , $3 B      
+62, HighRadius   , Sashi Narahari      ," Houston, Texas, United States                               ",United States,"3,750", Autonomous finance                       , $475 M  , $3.1 B    
+63, Lucid Software, Dave Grow          ," South Jordan, Utah, United States                           ",United States,"1,000", Visual collaboration                     , $103 M  , $3 B      
+64, Midjourney   , David Holz          ," San Francisco, California, United States                    ",United States,11, AI research and products                 ,         ,           
+65, Pendo        , Todd Olson          ," Raleigh, North Carolina, United States                      ",United States,811, Digital adoption software                , $356 M  , $2.6 B    
+66, Druva        , Jaspreet Singh      ," Santa Clara, California, United States                      ",United States,"1,059", Data protection                          , $328 M  , $2 B      
+67, BrowserStack , Ritesh Arora        ," Dublin, Ireland                                             ",Ireland,"1,059", Software testing platform                , $250 M  , $4 B      
+68, Forter       , Michael Reitblat    ," New York, New York                                          ",United States,579, E-commerce fraud prevention              , $525 M  , $3 B      
+69, ClickUp      , Zeb Evans           ," San Diego, California, United States                        ",United States,989, Work collaboration                       , $535 M  , $4 B      
+70, Razorpay     , Harshil Mathur      ," Bengaluru, India                                            ",India,"3,300", Payments software                        , $742 M  , $7.5 B    
+71, Automattic   , Matt Mullenweg      ," San Francisco, California, United States                    ",United States,"2,000", Publishing and e-commerce                , $800 M  , $7.5 B    
+72, Own Company  , Sam Gutmann         ," Englewood Cliffs, New Jersey, United States                 ",United States,812, Software data protection                 , $507 M  , $3.4 B    
+73, Contentsquare, Jonathan Cherki     ," Paris, France                                               ",France,"1,722", Customer analytics                       , $1.4 B  , $5.6 B    
+74, LaunchDarkly , Dan Rogers          ," Oakland, California, United States                          ",United States,481, Software feature management              , $330 M  , $3 B      
+75, 6sense       , Jason Zintak        ," San Francisco, California, United States                    ",United States,"1,137", Account-based marketing                  , $526 M  , $5.2 B    
+76, Intercom     , Eoghan McCabe       ," San Francisco, California, United States                    ",United States,886, AI-first customer service                , $241 M  , $1.3 B    
+77, Algolia      , Bernadette Nixon    ," San Francisco, California, United States                    ",United States,737, Business search API                      , $319 M  , $2.3 B    
+78, DeepL        , Jaroslaw Kutylowski ," Cologne, Germany                                            ",Germany,"1,000", AI translation service                   , $300 M  , $2 B      
+79, Papaya Global, Eynat Guez          ," Herzliya, Israel",Israel,750, Global payroll and payments              , $445 M  , $3.7 B    
+80, Cribl        , Clint Sharp         ," San Francisco, California, United States                    ",United States,700, Data management                          , $400 M  , $2.5 B    
+81, Vanta        , Christina Cacioppo  ," San Francisco, California, United States                    ",United States,500, Security and compliance                  , $353 M  , $2.5 B    
+82, Axonius      , Dean Sysman         ," New York , New York, United States                          ",United States,597, Cybersecurity asset management           , $595 M  , $2.6 B    
+83, Hugging Face , Clément Delangue    ," Brooklyn, New York, United States                           ",United States,216, AI research and products                 , $395 M  , $4.5 B    
+84, Lambda       , Stephen Balaban     ," San Jose, California, United States                         ",United States,350, GPU cloud for AI                         , $879 M  , $1.5 B    
+85, Perplexity   , Aravind Srinivas    ," San Francisco, California, United States                    ",United States,85, Answer engine                            , $165 M  , $1 B      
+86, Cato Networks, Shlomo Kramer       ," Tel Aviv, Israel                                            ",Israel,"1,100", Secure cloud networking                  , $773 M  , $3 B      
+87, Glean        , Arvind Jain         ," Palo Alto, California, United States                        ",United States,460, Enterprise AI platform                   , $360 M  , $2.2 B    
+88, Contentful   , Karthik Rau         ," Berlin, Germany ",Germany,723, Content creation platform                , $332 M  , $3 B      
+89, Brightwheel  , Dave Vasen          ," San Francisco, California, United States                    ",United States,430, Childcare management                     , $158 M  , $735 M    
+90, Vercel       , Guillermo Rauch     ," San Francisco, California, United States                    ",United States,500, Frontend cloud platform                  , $563 M  , $3.3 B    
+91, Harness      , Jyoti Bansal        ," San Francisco, California, United States                    ",United States,841, Software delivery                        , $575 M  , $3.7 B    
+92, Mistral AI   , Arthur Mensch       ," Paris, France                                               ",France,55, AI research and products                 , $1.2 B  , $6.5 B    
+93, Island       , Mike Fey            ," Dallas, Texas, United States                                ",United States,320, Enterprise browser                       , $487 M  , $3 B      
+94, Runway       , Cristóbal Valenzuela," New York, New York, United States                           ",United States,87, Generative video                         , $237 M  , $1.5 B    
+95, Claroty      , Yaniv Vardi         ," New York, New York, United States                           ",United States,600, Industrial cybersecurity                 , $700 M  , $2.5 B    
+96, Personio     , Hanno Renner        ," Munich, Germany                                             ",Germany,"1,800", HR software                              , $720 M  , $8.5 B    
+97, Kong Inc.    , Augusto Marietti    ," San Francisco, California, United States                    ",United States,544, API management                           , $171 M  , $1.4 B    
+98, Melio        , Matan Bar           ," New York, New York, United States                           ",United States,600, B2B payments                             , $506 M  , $4 B      
+99, Cohere       , Aidan Gomez         ," Toronto, Ontario, Canada                                    ",Canada,350, AI research and products                 , $1 B    , $5 B      
+100, Abridge      , Shiv Rao            ," Pittsburgh, Pennsylvania, United States                     ",United States,150, Generative AI for clinical documentation , $213 M  , $850 M    
