@@ -1,6 +1,6 @@
 # Forbes Cloud 100 Analysis
 source: (https://www.forbes.com/lists/cloud100/)
-![Cloud-header-forbes](files/cloud-100-2024-header-hitandrun-creative.jpg)
+![Cloud-header-forbes](files/cloud-100-2024-header-hitandrun-creative.png)
 
 This project analyzes data from "The Cloud 100 - 2024" dataset, which ranks the top 100 private cloud companies. The analysis includes visualizations of company distributions by country, funding vs. valuation relationships, and other key metrics.
 
