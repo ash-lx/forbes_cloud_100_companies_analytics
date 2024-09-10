@@ -6,7 +6,7 @@ This project analyzes data from "The Cloud 100 - 2024" dataset, which ranks the 
 
 ## Dataset
 
-The dataset ![Cloud 100 File](files/The Cloud 100 - 2024.csv) contains information about the top 100 cloud companies, including:
+The dataset !(files/The Cloud 100 - 2024.csv) contains information about the top 100 cloud companies, including:
 
 - Rank
 - Company name
